@@ -27,6 +27,11 @@ h1{
   color: wheat;
 }
 
+mark{
+  background-color:#cac0c2;
+  color: #5f0514;
+}
+
 header {
   text-align: center;
   padding: 20px;
