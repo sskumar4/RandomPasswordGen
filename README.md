@@ -13,11 +13,11 @@ HTML, CSS, JavaScript
 
 ## Features
 Used semantic html
-Files: 
+## Files: 
   * index.html, script.js and style.css
-Developed the app with the following features:
-  * when the button to generate a password is clicked, the user is presented with a series of prompts for password criteria
-  * prompt for length of at least 8-128 characters
+## Developed the app with the following features:
+  * The user is presented with a series of prompts for password criteria when the button to generate a password is clicked
+  * prompt for the length of at least 8-128 characters
   * prompt to select lowercase, uppercase, numeric, and/or special characters
   * validate and check if the user selected atleast one character type from the criteria
   * generate password with all the criteria and display in the text area
