@@ -1,5 +1,5 @@
 # RandomPasswordGen
-[![Thumbnail](Assets/images/)](https://github.com/sskumar4/RandomPasswordGen)  
+[![Thumbnail](images/passwordgen.jpg)](https://github.com/sskumar4/RandomPasswordGen)  
 
 # Links to deployed application and repository:
 * [Deployed Application](https://sskumar4.github.io/RandomPasswordGen)
@@ -8,7 +8,7 @@
 # Project Name: Password Generator
 #
 # Introduction:   
-An application that generates a random password based on user-selected criteria that provides greater security. The app will run in the browser and feature dynamically updated HTML and CSS powered by the JavaScript code. It will also feature a clean and polished user interface that adapts to multiple screen sizes.
+An application that generates a random password based on user-selected criteria with greater security. The app will run in the browser and feature dynamically updated HTML and CSS powered by the JavaScript code. It will also feature a clean and polished user interface that adapts to multiple screen sizes.
 
 # Technologies: 
 HTML, CSS, JavaScript
